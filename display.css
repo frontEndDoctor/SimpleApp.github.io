@@ -1,0 +1,14 @@
+/* This sheet takes care of the UI for displaying the post content */
+
+h4,
+h3 {
+  font-size: 20px;
+}
+.all-posts {
+  width: 100px;
+  height: fit-content;
+  padding-top: 10px;
+  padding-bottom: 70px;
+  text-align: start;
+  border-radius: 15px;
+}
